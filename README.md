@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="(https://github.com/sohaggain/sohaggain/blob/main/Sohag%20Gain%20GitHub%20Banner.png)" alt="Sohag Gain Banner" width="100%"/>
+<img src="https://github.com/sohaggain/sohaggain/blob/main/Sohag%20Gain%20GitHub%20Banner.png" alt="Sohag Gain Banner" width="100%"/>
 
 # Hi 👋, I'm Sohag Gain
 
