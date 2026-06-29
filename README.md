@@ -14,7 +14,7 @@ Building AI-powered solutions, intelligent automation systems, AI agents, and sc
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 BSc in Computer Science & Engineering
 * 🤖 AI Automation Engineer
