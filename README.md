@@ -26,7 +26,7 @@ Building AI-powered solutions, intelligent automation systems, AI agents, and sc
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 
 * AI Automation Systems
 * AI Agents & Multi-Agent Workflows
