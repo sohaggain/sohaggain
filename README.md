@@ -140,7 +140,7 @@ Built an online fashion and digital commerce brand with automated marketing, cus
 ## Education & Research
 
 **BSc in Computer Science & Engineering** — Jamalpur Science & Technology University · *Jan 2020 – Feb 2025*
-**HSC (Science)** — Shaheed Smrity College · *2017 – 2019*
+**HSC (Science)** — Shahid Smriti College · *2017 – 2019*
 
 **Thesis:** *Multilingual Text Classification Using Machine Learning and Deep Learning* — Based on Bangladeshi Newspaper Prothom Alo and English Articles · Supervisor: MD. Khabir Uddin Ahamed · Submitted May 2025
 
@@ -148,9 +148,9 @@ Built an online fashion and digital commerce brand with automated marketing, cus
 
 ## Certifications
 
-- ✅ GoHighLevel (GHL) Specialist Certification
-- ✅ Automation Workflow & AI Automation Certification
-- ✅ AI Automation & AI Agents — Hablu Programmer · Dec 2025
+- ✅ GoHighLevel (GHL) Specialist Certification — Automatable (Jono Catliff), May 2026
+- ✅ Automation Workflow & AI Automation Certification — AI Automation Society, May 2026
+- ✅ AI Automation & AI Agents — Hablu Programmer · Mar 2026 (Batch-04)
 - ✅ Web Design & Development — LEDP · 2020–2021
 
 ---
